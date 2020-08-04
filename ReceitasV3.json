@@ -6,6 +6,7 @@
     "PF_Branca":23,
     "PF_Agua":15,
     "PF_Ferm":0.3,
+    "Massa":true,
     "Branca":77,
     "Fermento":0.7,
     "Sal":2,
@@ -19,6 +20,7 @@
   {
     "id":2,
     "Nome":"Pão Básico",
+    "Massa":true,
     "Branca":100,
     "Agua":66,
     "Fermento":1,
