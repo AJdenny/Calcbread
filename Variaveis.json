@@ -1,19 +1,41 @@
-[{
-"Pre_Ferm" : "Pré-Fermento",
-"PF_Branca" : "Farinha branca",
-"PF_Agua" : "Agua",
-"PF_Ferm" : "Fermento biológico seco",
-"Branca" : "Farinha branca",
-"Integral" : "Farinha integral",
-"Agua" : "Agua",
-"Fermento" : "Fermento biológico seco",
-"Sal" : "Sal",
-"Acucar" : "Açúcar",
-"Leite" : "Leite Integral",
-"Ovo" : "Ovos",
-"Manteiga" : "Manteiga",
-"Pre_Ferm_TT" : "Pré-fermento",
-"Calabresa" : "Calabresa",
-"Mix_grão" : "Mix Grãos",
-"Agua" : "Agua do Mix Grãos"
-}]
+[
+  {
+    "Variaveis":
+    [
+      "Pre_Ferm",
+      "PF_Branca",
+      "PF_Agua",
+      "PF_Ferm",
+      "Branca",
+      "Integral",
+      "Agua",
+      "Fermento",
+      "Sal",
+      "Acucar",
+      "Leite",
+      "Ovo",
+      "Manteiga",
+      "Calabresa",
+      "Mix_grão",
+      "Agua_mix"
+    ],
+  },
+  {
+    "Pre_Ferm" : "Pré-Fermento",
+    "PF_Branca" : "Farinha branca",
+    "PF_Agua" : "Agua",
+    "PF_Ferm" : "Fermento biológico seco",
+    "Branca" : "Farinha branca",
+    "Integral" : "Farinha integral",
+    "Agua" : "Agua",
+    "Fermento" : "Fermento biológico seco",
+    "Sal" : "Sal",
+    "Acucar" : "Açúcar",
+    "Leite" : "Leite Integral",
+    "Ovo" : "Ovos",
+    "Manteiga" : "Manteiga",
+    "Calabresa" : "Calabresa",
+    "Mix_grão" : "Mix Grãos",
+    "Agua_mix" : "Agua do Mix Grãos"
+  }
+]
