@@ -30,6 +30,7 @@
   {
     "id":3,
     "Nome":"Pão Integral",
+    "Massa":true,
     "Branca":60,
     "Integral":40,
     "Agua":66,
