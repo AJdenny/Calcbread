@@ -16,7 +16,8 @@
     "Ovo":12,
     "Manteiga":8,
     "Pre_Ferm_TT":38.5,
-    "Link": "www.teste.com"
+    "Site": "Pão da Casa",
+    "Link": "https://www.youtube.com/watch?v=Qe7vABqWa94&t=587s"
   },
   {
     "id":2,
@@ -25,7 +26,9 @@
     "Branca":100,
     "Agua":66,
     "Fermento":1,
-    "Sal":2
+    "Sal":2,
+    "Site": "Amo Pão Caseiro",
+    "Link": "https://www.youtube.com/watch?v=nAWHwvnO5SY&t=297s"
   },
   {
     "id":3,
@@ -35,7 +38,9 @@
     "Integral":40,
     "Agua":66,
     "Fermento":1,
-    "Sal":2
+    "Sal":2,
+    "Site": "Pão da Casa",
+    "Link": "https://www.youtube.com/watch?v=3VaU0OLWN1U&t=305s"
   },
   {
     "id":4,
