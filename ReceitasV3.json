@@ -36,5 +36,15 @@
     "Agua":66,
     "Fermento":1,
     "Sal":2
+  },
+  {
+    "id":4,
+    "Nome":"Pão Calabreza",
+    "Massa":true,
+    "Branca":100,
+    "Agua":66,
+    "Fermento":1,
+    "Açucar":3
+    "Sal":2
   }
 ]
