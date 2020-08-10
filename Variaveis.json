@@ -10,6 +10,7 @@
       "Branca",
       "Integral",
       "Agua",
+      "Azeite",
       "Fermento",
       "Sal",
       "Acucar",
@@ -18,7 +19,11 @@
       "Manteiga",
       "Calabresa",
       "Mix_grão",
-      "Agua_mix"
+      "Agua_mix",
+      "Cobertura",
+      "C_Alecrim",
+      "C_SalGrosso",
+      "C_Azeite"
     ]
   },
   {
@@ -30,6 +35,7 @@
     "Branca" : "Farinha branca",
     "Integral" : "Farinha integral",
     "Agua" : "Agua",
+    "Azeite" : "Azeite",
     "Fermento" : "Fermento",
     "Sal" : "Sal",
     "Acucar" : "Açúcar",
@@ -38,6 +44,10 @@
     "Manteiga" : "Manteiga",
     "Calabresa" : "Calabresa",
     "Mix_grão" : "Mix Grãos",
-    "Agua_mix" : "Agua do Mix Grãos"
+    "Agua_mix" : "Agua do Mix Grãos",
+    "Cobertura" : "Cobertura",
+    "C_Alecrim" : "Alecrim",
+    "C_SalGrosso" : "Sal Grosso",
+    "C_Azeite" : "Azeite"
   }
 ]
