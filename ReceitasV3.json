@@ -13,6 +13,23 @@
   },
   {
     "id":2,
+    "Nome":"Pão Frances",
+    "TT_Farinha":330,
+    "Pre_Ferm":true,
+    "PF_Branca":9,
+    "PF_Agua":9,
+    "PF_Ferm":1,
+    "Massa":true,
+    "Branca":91,
+    "Agua":52,
+    "Fermento":0,
+    "Sal":2,
+    "Manteiga":4,
+    "Site": "Amo Pão Caseiro",
+    "Link": "https://www.youtube.com/watch?v=mEjddzTpuNI"
+  },
+  {
+    "id":3,
     "Nome":"Pão Pita",
     "TT_Farinha":500,
     "Massa":true,
@@ -25,7 +42,7 @@
     "Link": "https://www.youtube.com/watch?v=mOjkzQCMuuc"
   },
   {
-    "id":3,
+    "id":4,
     "Nome":"Pão de Forma",
     "TT_Farinha":565,
     "Pre_Ferm":true,
@@ -44,7 +61,7 @@
     "Link": "https://www.youtube.com/watch?v=Z-OHTqOZpnc"
   },
   {
-    "id":4,
+    "id":5,
     "Nome":"Focaccia",
     "TT_Farinha":565,
     "Pre_Ferm":true,
@@ -65,22 +82,20 @@
     "Link": "https://www.youtube.com/watch?v=TRBiwOwb170"
   },
   {
-    "id":5,
-    "Nome":"Pão de Hamburguer",
+    "id":6,
+    "Nome":"Ciabatta",
+    "TT_Farinha":375,
     "Pre_Ferm":true,
-    "PF_Branca":23,
-    "PF_Agua":15,
-    "PF_Ferm":0.3,
+    "PF_Branca":20,
+    "PF_Agua":20,
+    "PF_Ferm":1,
     "Massa":true,
-    "Branca":77,
-    "Agua":0,
-    "Fermento":0.7,
+    "Branca":80,
+    "Agua":56,
+    "Fermento":0,
     "Sal":2,
-    "Acucar":10,
-    "Leite":41,
-    "Ovo":12,
-    "Manteiga":8,
+    "Azeite":4,
     "Site": "Pão da Casa",
-    "Link": "https://www.youtube.com/watch?v=Qe7vABqWa94&t=587s"
+    "Link": "https://www.youtube.com/watch?v=q3hbLIs_tN0&t=123s"
   }
 ]
